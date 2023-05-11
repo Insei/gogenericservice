@@ -1,0 +1,12 @@
+github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
+github.com/insei/gerro v0.0.1 h1:ayDdQ626wxkIf9f8GcI+sPeKXGIeUlSvY8pSftETUeY=
+github.com/insei/gerro v0.0.1/go.mod h1:mhrlsfIugeOaiqDfr9MLFOf6IiZVy6DQHFNZtvfvyVI=
+github.com/insei/godtos v0.0.1 h1:CBYzEPOgLMZ8nJKRdl6LRoLYAGvGjV3P0KcUY/4VzyI=
+github.com/insei/godtos v0.0.1/go.mod h1:3S1lTeNBiqiExh1PiK6IfiWzEk09G0ruRSMnyLsaFvo=
+github.com/insei/gogenericrepo v0.0.2 h1:eWb+Q54ldrMDdm5B1aWk+M6tMVlulgccQ+CobOBfWVs=
+github.com/insei/gogenericrepo v0.0.2/go.mod h1:i1IVFiss1ywugZR8cGufjrb7J5NkwYhtMKhP5SD8Sfk=
+github.com/insei/gomapper v0.0.1 h1:Qx86guJUY+2QB5fewic9r7KH3wj1GY1PY7e50aOKTPM=
+github.com/insei/gomapper v0.0.1/go.mod h1:YYU3Bl2prJoZQYom5G39k/J8hQ7107DkGPIoR0gpn1k=
+github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
+github.com/stretchr/testify v1.8.2 h1:+h33VjcLVPDHtOdpUCuF+7gSuG3yGIftsP1YvFihtJ8=
+gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
